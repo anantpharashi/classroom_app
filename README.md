@@ -1,4 +1,4 @@
 # classroom_app
-#this is devlopment branch 
-#deploy your code here
+#this is main branch 
+#after testing your code here
 Enjoy you day happy coding......
